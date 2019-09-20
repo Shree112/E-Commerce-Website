@@ -40,6 +40,14 @@ height: 60px;
 	margin-right: auto;
 }
 
+.correct2 {
+	margin-left: 10px;
+}
+
+#img1 {
+	margin-top: -50px;
+}
+
 #footer {
 background-color: #5c755e;
 margin: 5px; 
